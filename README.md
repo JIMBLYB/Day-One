@@ -1,3 +1,1 @@
-Black Used in background -
-RGBA - 20, 20, 20, 255
-Hex - 141414
+Global Game Jam 2020 - Theme: Repair
