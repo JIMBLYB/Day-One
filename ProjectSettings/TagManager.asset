@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Grid
+  - Ram
+  - Window
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - Enemy
+  - Attack
+  - Player
+  - Test
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Wallpaper
+    uniqueID: 2038262879
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Apps
+    uniqueID: 1151694551
+    locked: 0
+  - name: Screen
+    uniqueID: 406075213
+    locked: 0
+  - name: Grid
+    uniqueID: 10208133
+    locked: 0
+  - name: Text
+    uniqueID: 1348421423
+    locked: 0
+  - name: Enemy
+    uniqueID: 1322074345
+    locked: 0
+  - name: Player
+    uniqueID: 1088457305
+    locked: 0
+  - name: Window
+    uniqueID: 1996911739
+    locked: 0
+  - name: WindowUI
+    uniqueID: 2532111711
+    locked: 0
